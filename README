@@ -1,0 +1,5 @@
+Program designed to let you play drum tabs because they're so common. 
+
+python ./drums.py
+
+Copy of python-musical required and included
